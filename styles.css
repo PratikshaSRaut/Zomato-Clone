@@ -21,7 +21,7 @@ a {
 }
 
 .hero {
-  background-image: url("../images/hero.png");
+  background-image: url("./Images/hero.png");
   background-position: center center;
   background-size: cover;
   transform: scale(1);
@@ -207,7 +207,7 @@ section.app div.container div.radio {
   padding: 10px;
 }
 
-section.app div.container div.radio div.radio-label{
+section.app div.container div.radio div.radio-label {
   display: flex;
   justify-content: space-evenly;
   align-items: center;
@@ -373,9 +373,9 @@ footer {
   width: 30%;
 }
 
-.footer-row2{
+.footer-row2 {
   display: flex;
-  justify-content:space-around;
+  justify-content: space-around;
   align-items: flex-start;
 }
 
@@ -388,7 +388,7 @@ footer {
 }
 
 .spacing h4 {
-  margin: 0px 0px .8rem;
+  margin: 0px 0px 0.8rem;
 }
 
 hr {
